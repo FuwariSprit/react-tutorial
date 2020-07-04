@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { cursorTo } from 'readline';
 
 function Square(props) {
   return (
